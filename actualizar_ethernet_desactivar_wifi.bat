@@ -1,4 +1,6 @@
 @echo off
+title  - https://github.com/OtaconEvil
+
 REM Actualizar el adaptador de red Ethernet
 echo Actualizando el adaptador de red Ethernet...
 netsh interface set interface "Ethernet" admin=disable
